@@ -1,0 +1,4 @@
+Export of C:\Users\markx\OneDrive\Documents\Python\0.csv
+Number of frames 16555
+Length: 0:01:30.220s
+frame,time,RPM,VSS,Gear,PTANK,MAP,BP,BP CMD,TPedal,TPlate,AFM.v,AFM,AFM.c,AIRC,INJ,INJ Bank 2,DI Fuel Pressure,DI Fuel Pressure CMD,DUTY,IGN,IAT,IAT2,ECT,ECT2,CAM,CAMCMD,EXCAM,EXCAMCMD,Waste Gate,Waste Gate CMD,AF,AF Bank 2,AF.Corr,Wide.V,Wide,S.TRIM,L.TRIM,S.TRIM Bank 2,L.TRIM Bank 2,Fuel Status,Fuel Status Bank 2,K.Level,K.Retard,K.Control,Ign.Limit,K.Count,K.Count.1,K.Count.2,K.Count.3,K.Count.4,K.Count.5,K.Count.6,PA,BAT,VTS,SVS,Purge,Eco,Fuel Used,BC Duty,TC.V,TC.ECUSlip,TC.R,TC.LF,TC.RF,TC.LR,TC.RR,TC.Slip,TC.Turn,TC.OverSlip,TC.Out
