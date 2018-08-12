@@ -33,7 +33,7 @@ def upload():
 			if first.isdigit():
 				separated = line.split(',')
 				time.append(separated[1])
-				vss.append(separated[3])
+				vss.append(separated[3]) #Change this to read ABS rear wheel speed
 		try:
 			#deletes all 0 values in the beginning of the datalog
 			while vss[1] == '0':
